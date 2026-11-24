@@ -1,0 +1,15 @@
+C:\Users\VV.Zakharov\source\repos\GameClub\GameClub\bin\Debug\net10.0\GameClub.exe
+C:\Users\VV.Zakharov\source\repos\GameClub\GameClub\bin\Debug\net10.0\GameClub.deps.json
+C:\Users\VV.Zakharov\source\repos\GameClub\GameClub\bin\Debug\net10.0\GameClub.runtimeconfig.json
+C:\Users\VV.Zakharov\source\repos\GameClub\GameClub\bin\Debug\net10.0\GameClub.dll
+C:\Users\VV.Zakharov\source\repos\GameClub\GameClub\bin\Debug\net10.0\GameClub.pdb
+C:\Users\VV.Zakharov\source\repos\GameClub\GameClub\obj\Debug\net10.0\GameClub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VV.Zakharov\source\repos\GameClub\GameClub\obj\Debug\net10.0\GameClub.AssemblyInfoInputs.cache
+C:\Users\VV.Zakharov\source\repos\GameClub\GameClub\obj\Debug\net10.0\GameClub.AssemblyInfo.cs
+C:\Users\VV.Zakharov\source\repos\GameClub\GameClub\obj\Debug\net10.0\GameClub.csproj.CoreCompileInputs.cache
+C:\Users\VV.Zakharov\source\repos\GameClub\GameClub\obj\Debug\net10.0\GameClub.dll
+C:\Users\VV.Zakharov\source\repos\GameClub\GameClub\obj\Debug\net10.0\refint\GameClub.dll
+C:\Users\VV.Zakharov\source\repos\GameClub\GameClub\obj\Debug\net10.0\GameClub.pdb
+C:\Users\VV.Zakharov\source\repos\GameClub\GameClub\obj\Debug\net10.0\GameClub.genruntimeconfig.cache
+C:\Users\VV.Zakharov\source\repos\GameClub\GameClub\obj\Debug\net10.0\ref\GameClub.dll
+C:\Users\VV.Zakharov\source\repos\GameClub\GameClub\obj\Debug\net10.0\GameClub.csproj.Up2Date
