@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\VV.Zakharov\\source\\repos\\GameClub\\GameClub\\GameClub.csproj": {}
+    "C:\\Users\\vladi\\OneDrive\\Рабочий стол\\Practicum\\GameClub\\GameClub.csproj": {}
   },
   "projects": {
-    "C:\\Users\\VV.Zakharov\\source\\repos\\GameClub\\GameClub\\GameClub.csproj": {
+    "C:\\Users\\vladi\\OneDrive\\Рабочий стол\\Practicum\\GameClub\\GameClub.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\VV.Zakharov\\source\\repos\\GameClub\\GameClub\\GameClub.csproj",
+        "projectUniqueName": "C:\\Users\\vladi\\OneDrive\\Рабочий стол\\Practicum\\GameClub\\GameClub.csproj",
         "projectName": "GameClub",
-        "projectPath": "C:\\Users\\VV.Zakharov\\source\\repos\\GameClub\\GameClub\\GameClub.csproj",
-        "packagesPath": "C:\\Users\\VV.Zakharov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\VV.Zakharov\\source\\repos\\GameClub\\GameClub\\obj\\",
+        "projectPath": "C:\\Users\\vladi\\OneDrive\\Рабочий стол\\Practicum\\GameClub\\GameClub.csproj",
+        "packagesPath": "C:\\Users\\vladi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vladi\\OneDrive\\Рабочий стол\\Practicum\\GameClub\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\VV.Zakharov\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\vladi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

@@ -13,3 +13,19 @@ C:\Users\VV.Zakharov\source\repos\GameClub\GameClub\obj\Debug\net10.0\GameClub.p
 C:\Users\VV.Zakharov\source\repos\GameClub\GameClub\obj\Debug\net10.0\GameClub.genruntimeconfig.cache
 C:\Users\VV.Zakharov\source\repos\GameClub\GameClub\obj\Debug\net10.0\ref\GameClub.dll
 C:\Users\VV.Zakharov\source\repos\GameClub\GameClub\obj\Debug\net10.0\GameClub.csproj.Up2Date
+C:\Users\vladi\OneDrive\Рабочий стол\Practicum\GameClub\obj\Debug\net10.0\GameClub.dll
+C:\Users\vladi\OneDrive\Рабочий стол\Practicum\GameClub\obj\Debug\net10.0\refint\GameClub.dll
+C:\Users\vladi\OneDrive\Рабочий стол\Practicum\GameClub\obj\Debug\net10.0\GameClub.pdb
+C:\Users\vladi\OneDrive\Рабочий стол\Practicum\GameClub\bin\Debug\net10.0\GameClub.exe
+C:\Users\vladi\OneDrive\Рабочий стол\Practicum\GameClub\bin\Debug\net10.0\GameClub.deps.json
+C:\Users\vladi\OneDrive\Рабочий стол\Practicum\GameClub\bin\Debug\net10.0\GameClub.runtimeconfig.json
+C:\Users\vladi\OneDrive\Рабочий стол\Practicum\GameClub\bin\Debug\net10.0\GameClub.dll
+C:\Users\vladi\OneDrive\Рабочий стол\Practicum\GameClub\bin\Debug\net10.0\GameClub.pdb
+C:\Users\vladi\OneDrive\Рабочий стол\Practicum\GameClub\obj\Debug\net10.0\GameClub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladi\OneDrive\Рабочий стол\Practicum\GameClub\obj\Debug\net10.0\GameClub.AssemblyInfoInputs.cache
+C:\Users\vladi\OneDrive\Рабочий стол\Practicum\GameClub\obj\Debug\net10.0\GameClub.AssemblyInfo.cs
+C:\Users\vladi\OneDrive\Рабочий стол\Practicum\GameClub\obj\Debug\net10.0\GameClub.csproj.CoreCompileInputs.cache
+C:\Users\vladi\OneDrive\Рабочий стол\Practicum\GameClub\obj\Debug\net10.0\GameClub.sourcelink.json
+C:\Users\vladi\OneDrive\Рабочий стол\Practicum\GameClub\obj\Debug\net10.0\GameClub.genruntimeconfig.cache
+C:\Users\vladi\OneDrive\Рабочий стол\Practicum\GameClub\obj\Debug\net10.0\ref\GameClub.dll
+C:\Users\vladi\OneDrive\Рабочий стол\Practicum\GameClub\obj\Debug\net10.0\GameClub.csproj.Up2Date

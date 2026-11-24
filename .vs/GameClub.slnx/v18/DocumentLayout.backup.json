@@ -1,26 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\VV.Zakharov\\source\\repos\\GameClub\\",
+  "WorkspaceRootPath": "C:\\Users\\vladi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Practicum\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ADD2DF29-04E8-48AE-9E92-702E71AA8134}|GameClub\\GameClub.csproj|c:\\users\\vv.zakharov\\source\\repos\\gameclub\\gameclub\\boardgamecatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADD2DF29-04E8-48AE-9E92-702E71AA8134}|GameClub\\GameClub.csproj|solutionrelative:gameclub\\boardgamecatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{73A7DAEB-1161-4641-F90C-1030814F062D}|GameClub\\GameClub.csproj|c:\\users\\vladi\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\practicum\\gameclub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73A7DAEB-1161-4641-F90C-1030814F062D}|GameClub\\GameClub.csproj|solutionrelative:gameclub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADD2DF29-04E8-48AE-9E92-702E71AA8134}|GameClub\\GameClub.csproj|c:\\users\\vv.zakharov\\source\\repos\\gameclub\\gameclub\\boardgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADD2DF29-04E8-48AE-9E92-702E71AA8134}|GameClub\\GameClub.csproj|solutionrelative:gameclub\\boardgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{73A7DAEB-1161-4641-F90C-1030814F062D}|GameClub\\GameClub.csproj|c:\\users\\vladi\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\practicum\\gameclub\\rental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73A7DAEB-1161-4641-F90C-1030814F062D}|GameClub\\GameClub.csproj|solutionrelative:gameclub\\rental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADD2DF29-04E8-48AE-9E92-702E71AA8134}|GameClub\\GameClub.csproj|c:\\users\\vv.zakharov\\source\\repos\\gameclub\\gameclub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADD2DF29-04E8-48AE-9E92-702E71AA8134}|GameClub\\GameClub.csproj|solutionrelative:gameclub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{73A7DAEB-1161-4641-F90C-1030814F062D}|GameClub\\GameClub.csproj|c:\\users\\vladi\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\practicum\\gameclub\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73A7DAEB-1161-4641-F90C-1030814F062D}|GameClub\\GameClub.csproj|solutionrelative:gameclub\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADD2DF29-04E8-48AE-9E92-702E71AA8134}|GameClub\\GameClub.csproj|c:\\users\\vv.zakharov\\source\\repos\\gameclub\\gameclub\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADD2DF29-04E8-48AE-9E92-702E71AA8134}|GameClub\\GameClub.csproj|solutionrelative:gameclub\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{73A7DAEB-1161-4641-F90C-1030814F062D}|GameClub\\GameClub.csproj|c:\\users\\vladi\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\practicum\\gameclub\\boardgamecatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73A7DAEB-1161-4641-F90C-1030814F062D}|GameClub\\GameClub.csproj|solutionrelative:gameclub\\boardgamecatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADD2DF29-04E8-48AE-9E92-702E71AA8134}|GameClub\\GameClub.csproj|c:\\users\\vv.zakharov\\source\\repos\\gameclub\\gameclub\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADD2DF29-04E8-48AE-9E92-702E71AA8134}|GameClub\\GameClub.csproj|solutionrelative:gameclub\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{73A7DAEB-1161-4641-F90C-1030814F062D}|GameClub\\GameClub.csproj|c:\\users\\vladi\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\practicum\\gameclub\\boardgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73A7DAEB-1161-4641-F90C-1030814F062D}|GameClub\\GameClub.csproj|solutionrelative:gameclub\\boardgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73A7DAEB-1161-4641-F90C-1030814F062D}|GameClub\\GameClub.csproj|c:\\users\\vladi\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\practicum\\gameclub\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73A7DAEB-1161-4641-F90C-1030814F062D}|GameClub\\GameClub.csproj|solutionrelative:gameclub\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,69 +34,82 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Rental.cs",
+              "DocumentMoniker": "C:\\Users\\vladi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Practicum\\GameClub\\Rental.cs",
+              "RelativeDocumentMoniker": "GameClub\\Rental.cs",
+              "ToolTip": "C:\\Users\\vladi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Practicum\\GameClub\\Rental.cs",
+              "RelativeToolTip": "GameClub\\Rental.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T14:25:56.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "BoardGameCatalog.cs",
-              "DocumentMoniker": "C:\\Users\\VV.Zakharov\\source\\repos\\GameClub\\GameClub\\BoardGameCatalog.cs",
+              "DocumentMoniker": "C:\\Users\\vladi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Practicum\\GameClub\\BoardGameCatalog.cs",
               "RelativeDocumentMoniker": "GameClub\\BoardGameCatalog.cs",
-              "ToolTip": "C:\\Users\\VV.Zakharov\\source\\repos\\GameClub\\GameClub\\BoardGameCatalog.cs",
+              "ToolTip": "C:\\Users\\vladi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Practicum\\GameClub\\BoardGameCatalog.cs",
               "RelativeToolTip": "GameClub\\BoardGameCatalog.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAiwGMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAASwDMAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-24T11:17:04.812Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Command.cs",
-              "DocumentMoniker": "C:\\Users\\VV.Zakharov\\source\\repos\\GameClub\\GameClub\\Command.cs",
+              "DocumentMoniker": "C:\\Users\\vladi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Practicum\\GameClub\\Command.cs",
               "RelativeDocumentMoniker": "GameClub\\Command.cs",
-              "ToolTip": "C:\\Users\\VV.Zakharov\\source\\repos\\GameClub\\GameClub\\Command.cs",
+              "ToolTip": "C:\\Users\\vladi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Practicum\\GameClub\\Command.cs",
               "RelativeToolTip": "GameClub\\Command.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwC4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-24T11:11:41.688Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Review.cs",
-              "DocumentMoniker": "C:\\Users\\VV.Zakharov\\source\\repos\\GameClub\\GameClub\\Review.cs",
+              "DocumentMoniker": "C:\\Users\\vladi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Practicum\\GameClub\\Review.cs",
               "RelativeDocumentMoniker": "GameClub\\Review.cs",
-              "ToolTip": "C:\\Users\\VV.Zakharov\\source\\repos\\GameClub\\GameClub\\Review.cs",
+              "ToolTip": "C:\\Users\\vladi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Practicum\\GameClub\\Review.cs",
               "RelativeToolTip": "GameClub\\Review.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-24T11:10:56.153Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "BoardGame.cs",
-              "DocumentMoniker": "C:\\Users\\VV.Zakharov\\source\\repos\\GameClub\\GameClub\\BoardGame.cs",
+              "DocumentMoniker": "C:\\Users\\vladi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Practicum\\GameClub\\BoardGame.cs",
               "RelativeDocumentMoniker": "GameClub\\BoardGame.cs",
-              "ToolTip": "C:\\Users\\VV.Zakharov\\source\\repos\\GameClub\\GameClub\\BoardGame.cs",
+              "ToolTip": "C:\\Users\\vladi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Practicum\\GameClub\\BoardGame.cs",
               "RelativeToolTip": "GameClub\\BoardGame.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAqwDoAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-24T11:10:20.1Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\VV.Zakharov\\source\\repos\\GameClub\\GameClub\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\vladi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Practicum\\GameClub\\Program.cs",
               "RelativeDocumentMoniker": "GameClub\\Program.cs",
-              "ToolTip": "C:\\Users\\VV.Zakharov\\source\\repos\\GameClub\\GameClub\\Program.cs",
+              "ToolTip": "C:\\Users\\vladi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Practicum\\GameClub\\Program.cs",
               "RelativeToolTip": "GameClub\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAEwEkAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-24T11:09:44.932Z",
               "EditorCaption": ""

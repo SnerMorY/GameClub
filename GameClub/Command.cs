@@ -1,85 +1,98 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Runtime.CompilerServices;
-using System.Text;
 
 namespace GameClub;
 
 public class Command
 {
-    private static Dictionary<string, Command> Commands = new Dictionary<string, Command>();
+    private static readonly Dictionary<string, Command> Commands = new Dictionary<string, Command>();
+    private static readonly List<Command> UniqueCommands = new List<Command>();
+
     public string Name { get; private set; }
+    public List<string> Aliases { get; private set; }
     public string Description { get; private set; }
-    public bool ArgsRequired { get; set; } = true;
-    public int MinArgs { get; private set; }
+    public string Usage { get; private set; }
     public int MaxArgs { get; private set; }
-    private Action<List<string>> CmdFunc;
-    
+    private readonly Action<List<string>> CmdFunc;
+
     static string FormatCommandName(string name)
     {
         return name.Trim().ToLower();
     }
 
-    public static Command? ExtractCommand(List<string> args)
+    public static Command? ExtractCommand(string rawCommandName)
     {
-        if (args == null)
-            return null;
-        if (args.Count == 0)
+        if (string.IsNullOrWhiteSpace(rawCommandName))
             return null;
 
-        string cmdName = FormatCommandName(args[0]);
-        if (Commands.ContainsKey(cmdName))
-            return Commands[cmdName];
+        string cmdName = FormatCommandName(rawCommandName);
+        if (Commands.TryGetValue(cmdName, out Command? cmd))
+            return cmd;
+
         return null;
     }
 
-    public static bool TryExtractCommand(List<string> args, out Command cmd)
+    public static bool TryExtractCommand(string rawCommandName, out Command cmd)
     {
-        Command extractedCmd = ExtractCommand(args);
+        Command? extractedCmd = ExtractCommand(rawCommandName);
         if (extractedCmd == null)
         {
-            cmd = null;
+            cmd = null!;
             return false;
-        } else
-        {
-            cmd = extractedCmd;
-            return true;
         }
+        cmd = extractedCmd;
+        return true;
     }
-    public Command(string name, string desc, int minArgs, int maxArgs, bool argsRequired, Action<List<string>> cmdFunc)
+
+    public Command(string name, string desc, string usage, int maxArgs, Action<List<string>> cmdFunc, params string[] aliases)
     {
         Name = FormatCommandName(name);
         Description = desc;
-        MinArgs = minArgs;
+        Usage = usage;
         MaxArgs = maxArgs;
-        ArgsRequired = argsRequired;
         CmdFunc = cmdFunc;
+        Aliases = new List<string>();
 
-        Commands.Add(name, this);
+        Commands[Name] = this;
+        UniqueCommands.Add(this);
+
+        foreach (var alias in aliases)
+        {
+            AddAlias(alias);
+        }
     }
 
-    public Command(string name, bool argsRequired=true) : this(name, "", -1, -1, argsRequired, (args) => Console.WriteLine(name)) { }
-    
-    ~Command()
+    public void AddAlias(string alias)
     {
-        Commands.Remove(Name);
+        string formatted = FormatCommandName(alias);
+        if (!string.IsNullOrEmpty(formatted) && !Commands.ContainsKey(formatted))
+        {
+            Aliases.Add(formatted);
+            Commands[formatted] = this;
+        }
     }
+
     public void Execute(List<string>? args)
     {
-        if (args == null && ArgsRequired)
-            return;
-        if (MinArgs != -1 && args.Count < MinArgs)
-            return;
-        if (MaxArgs != -1 && args.Count > MaxArgs)
-            return;
-
-        CmdFunc(args);
-    }
-    public void Execute()
-    {
-        if (!ArgsRequired)
+        List<string> safeArgs = args ?? new List<string>();
+        if (MaxArgs != -1 && safeArgs.Count > MaxArgs)
         {
-            this.Execute(null);
+            Console.WriteLine($"Ошибка: слишком много аргументов (максимум {MaxArgs}). Использование: {Usage}");
+            return;
+        }
+
+        CmdFunc(safeArgs);
+    }
+
+    public static void PrintHelp()
+    {
+        Console.WriteLine("\n=== СПРАВКА ПО КОМАНДАМ ===");
+        Console.WriteLine("Можно вводить как номер пункта меню, так и текстовую команду (с аргументами или без):\n");
+        foreach (var cmd in UniqueCommands)
+        {
+            string aliasStr = cmd.Aliases.Count > 0 ? $" [алиасы: {string.Join(", ", cmd.Aliases)}]" : "";
+            Console.WriteLine($"  {cmd.Usage}{aliasStr}");
+            Console.WriteLine($"      {cmd.Description}");
         }
     }
 }
